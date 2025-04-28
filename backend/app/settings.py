@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'teams',
     'sprints',
     'backlog',
+    'conversations',
     'rest_framework',
     'rest_framework_simplejwt',
 ]
